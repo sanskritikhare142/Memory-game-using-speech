@@ -1,7 +1,15 @@
 # Memory-game-using-speech
  A game to test your memory powered by your voice using speech recognition module by Google API.
- 
- # This will be the biggest text
-## This will be smaller
-### This will be even smaller
-#### This will be more smaller, can go to 6 hashes
+
+## Overview
+This program is written in python using Jupyter notebook and has Google Speech to Text API to recognise your speech and play the game.
+
+## Installations required
+You'll be needing:
+* Jupyter Notebook
+* SpeechRecoginition Module
+* PyAudio Module
+* pyttsx3 module *(to convert text to speech)*
+* A working internet connection *as the SpeechRecognition module needs to connect to Google Cloud*
+
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/sanskritikhare/)
